@@ -1,6 +1,6 @@
 # New_c_project
 # Author Olawunmi Eniola Samuel 
-# Book: The C Programmimg Language
+# Book: The C Programming Language
 <h3>By Kernighan & Ritchie
 <br>
 Starting with C as a software engineer
